@@ -1,3 +1,5 @@
+package algorithms;
+
 public class TowersOfHanoi {
     public static void main(String[] args) {
         char startPeg = 'A'; // start tower in output

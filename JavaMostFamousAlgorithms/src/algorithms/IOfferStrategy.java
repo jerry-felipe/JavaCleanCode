@@ -1,3 +1,5 @@
+package algorithms;
+
 // Interface for Strategy
 interface OfferStrategy {
     String getName();

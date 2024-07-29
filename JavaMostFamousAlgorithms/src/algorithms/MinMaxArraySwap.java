@@ -1,3 +1,5 @@
+package algorithms;
+
 public class MinMaxArraySwap {
 
     public void minMaxSwap(int[] input) {

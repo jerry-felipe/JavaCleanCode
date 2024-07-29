@@ -1,3 +1,5 @@
+package algorithms;
+
 public class RollingCipher {
     public static String rcMethod(String str, int n) {
         char[] alphabet = new char[26];

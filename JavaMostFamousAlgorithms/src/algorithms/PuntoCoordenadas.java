@@ -1,3 +1,5 @@
+package algorithms;
+
 import java.util.Scanner;
 
 public class PuntoCoordenadas {

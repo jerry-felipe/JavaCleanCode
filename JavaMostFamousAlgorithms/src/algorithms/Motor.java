@@ -1,3 +1,5 @@
+package algorithms;
+
 public class Motor {
 
     public void acelerar() {

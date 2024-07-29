@@ -1,3 +1,5 @@
+package algorithms;
+
 import java.io.*;
 
 public class SerializationExample {

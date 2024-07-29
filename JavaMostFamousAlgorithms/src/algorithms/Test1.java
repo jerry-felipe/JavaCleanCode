@@ -1,3 +1,5 @@
+package algorithms;
+
 public class Test1 {
     private Test4 test4;
     private Test2 test2;

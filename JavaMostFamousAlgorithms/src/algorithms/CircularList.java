@@ -1,3 +1,5 @@
+package algorithms;
+
 public class CircularList {
     private int currentData;
     private CircularList nextData;

@@ -1,3 +1,5 @@
+package algorithms;
+
 public class PasswordChecker {
 
     public static boolean checkPassword(String pass) {

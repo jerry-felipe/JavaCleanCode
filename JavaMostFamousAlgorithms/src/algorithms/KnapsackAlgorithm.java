@@ -1,3 +1,5 @@
+package algorithms;
+
 public class KnapsackAlgorithm {
 
     public static int knapSack(int capacity, int[] weight, int[] value, int itemsCount) {

@@ -1,3 +1,5 @@
+package algorithms;
+
 // Java program to calculate the area 
 // of a square using the concept of 
 // data abstraction 

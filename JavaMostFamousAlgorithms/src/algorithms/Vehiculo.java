@@ -1,3 +1,5 @@
+package algorithms;
+
 public class Vehiculo {
     private Motor m;
 

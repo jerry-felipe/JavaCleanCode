@@ -1,3 +1,5 @@
+package algorithms;
+
 public class CodingAlgorithm {
     public static class RotateArrayRight {
         // Rotate array to the right of a given pivot

@@ -1,3 +1,5 @@
+package algorithms;
+
 import java.util.Objects;
 
 public class Piano implements Comparable<Piano> {
