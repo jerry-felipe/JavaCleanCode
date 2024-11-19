@@ -31,7 +31,7 @@ This repository contains implementations of some of the most famous and widely-u
 # Setup
 1. Clone the repository:
    '''bash
-   git clone https://github.com/<your-username>/java-famous-algorithms.git
+   git clone https://github.com/jerry-felipe/java-famous-algorithms.git
    cd java-famous-algorithms
    '''
 
